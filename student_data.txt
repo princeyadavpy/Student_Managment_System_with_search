@@ -1,0 +1,21 @@
+101, Anjali Sharma, 88
+102, Rohan Verma, 74
+103, Priya Singh, 92
+104, Amit Kumar, 67
+105, Sneha Patel, 81
+106, Rajesh Gupta, 76
+107, Pooja Chauhan, 85
+108, Vivek Joshi, 78
+109, Ritu Mehta, 90
+110, Manish Tiwari, 69
+111, Neha Arora, 82
+112, Suresh Yadav, 73
+113, Kavita Sinha, 91
+114, Arjun Kapoor, 65
+115, Meena Rathi, 87
+116, Rohit Shetty, 70
+117, Komal Agarwal, 79
+118, Vikas Malhotra, 83
+119, Divya Mishra, 77
+120,Prince Yadav,99%
+121,Harsh Thakur,84
